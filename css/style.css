@@ -1,0 +1,44 @@
+* {
+    justify-content: center ;
+}
+body {
+    margin: 200px;
+    flex-direction: column;
+} 
+h1 {
+    flex-direction: column;
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 25px;
+    min-width: 50vh;
+    padding: 3px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+    
+    list-style: none;
+    color: peachpuff;
+    font-size: 20px;
+    margin: 15px 0px 15px 0px;
+}
+#input-skill {
+    border: 2px solid lightgreen;
+    width: 280px;
+}
+#input-line {
+    min-width: 50vh;
+}
+.x {
+    color: white;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+
+}
+
